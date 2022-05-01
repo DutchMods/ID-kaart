@@ -1,0 +1,106 @@
+@font-face {
+  font-family: justsignature;
+  src: url('../fonts/justsignature/JustSignature.woff');
+}
+body, html {
+  width: 100%;
+  height: 100%;
+}
+p {
+  padding: 0;
+  margin: 23px;
+  text-transform: uppercase;
+  color: #282828;
+  font-size: 12px;
+}
+#id-card {
+  border-radius: 25px;
+  position: relative;
+  display: none;
+  margin: 260px 10px 0 0;
+  float: right;
+  width: 457px;
+  height: 272px;
+  padding: 32px 17px 10px 121px;
+  background: url("../images/idcard.png");
+}
+img {
+  position: absolute;
+  left:30px;
+  top:50px;
+  width: 100px;
+}
+
+#img2 {
+  position: absolute;
+  width: 50px;
+  left: 312.5px;
+  top: 138px;
+  filter: blur(3.5px);
+  opacity: .0;
+}
+#name {
+  position: absolute;
+  font-weight: bolder;
+  font-size: 16px;
+  left: 145px;
+  top: 55px;
+  color: #282828;
+}
+#name2 {
+  margin: -22px 22px;
+  font-size: 14px;
+  color: #282828;
+}
+#inline {
+  position: absolute;
+  top: 109px;
+}
+#dob {
+  position: absolute;
+  left: 35px;
+  top: 40px;
+  width: 100px;
+  margin: 1px 23px;
+}
+#sex {
+  position: absolute;
+  top: 17px;
+  left: -58px;
+  margin: 1px 112px;
+}
+#height {
+  position: absolute;
+  top: -8px;
+  left: -125px;
+  width: 60px;
+  margin: 1px 174px;
+}
+#signature {
+  position: absolute;
+  top: 150px;
+  left: 15px;
+  margin: 82px 30px;
+  color: #696969;
+  font-size: 18px;
+  text-transform:capitalize;
+  font-family: justsignature;
+}
+#signature2 {
+  position: absolute;
+  left: 100px;
+  top: 145px;
+  margin: 88px 30px;
+  color: #696969;
+  font-size: 18px;
+  text-transform:capitalize;
+  font-family: justsignature;
+}
+#licenses {
+  position: absolute;
+  vertical-align: top;
+  text-align: left;
+  line-height: 0em;
+  margin: 16px 226px;
+  width: 50px;
+}
