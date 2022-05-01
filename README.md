@@ -11,7 +11,7 @@ Wij werken met esx legacy en het werkt prima, moest jij met een oudere versie we
 
 
 ## Foto
-![image](https://user-images.githubusercontent.com/104724906/166151076-73dae1be-e605-4fa8-937b-5fe60deb03a5.png)
+![image](https://user-images.githubusercontent.com/104724906/166152069-876af69c-6353-4fec-aa26-99ceabff46e4.png)
 
 
 ## Gebruik
