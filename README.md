@@ -6,7 +6,7 @@ Dit is een reskin van https://forum.cfx.re/t/release-jsfour-idcard-esx/169787
 ## Instalatie
 Zet dit in je recourse folder en start/ensure het script 
 Je moet ook <a href="https://github.com/esx-framework/esx-legacy">esx_legacy</a> hebben anders werkt dit script niet.
-Wij werken met esx legacy en het werkt prima, moest jij met een oudere versie werken dan moetn je kijken of je es_extended en <a href="https://github.com/StockholmCityRP/esx_license">esx_License</a> hebt.
+Wij werken met esx legacy en het werkt prima, moest jij met een oudere versie werken dan moet je kijken of je es_extended en <a href="https://github.com/StockholmCityRP/esx_license">esx_License</a> hebt.
 
 
 
